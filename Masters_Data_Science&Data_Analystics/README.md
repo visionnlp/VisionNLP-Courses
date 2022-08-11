@@ -37,6 +37,7 @@
 -	Missing value techniques
 -	Outlier detection and treatment
 -	Multi-collinearity
+- Deal with Categorical data
 -	Feature Engineering
 -	Feature selection
 -	Feature Scaling and Standardization
