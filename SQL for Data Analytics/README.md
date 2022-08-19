@@ -1,5 +1,27 @@
 # Course: SQL for Data Analytics - with SQL Server
 
+Are you a data scientist or Data Analyst interested in learning more about how to analyze data and improve your SQL skills? Then this live online course is for you.
+
+**SQL for Data Analysis - with SQL Server** is a online class taught live by experts from leading Companies like Bajaj. 
+
+**What you will learn:** (detailed syllabus is mentioned below)
+- SQL, DBMS and SQL Server Detailed Understanding
+- SQL Queries Clauses
+- Data Manipulation 
+- Operators & in-built functions
+- Create DB
+- SQL joins & Many more.
+
+All participants completing the course receive a *certificate* and access to the WhatsApp community.
+
+**Dates**: August 20, August 21, August 27, August 28
+
+**Session time**:  7.30PM to 9:30PM IST
+
+**Who can attend**: Data scientists, machine learning engineers, data analysts, Data Engineers, BI Developers, Students.
+
+**Benefits**: Doubt clearing sessions, Career Avice, Certifiction, Live Projects, Assignments
+
 ## Syllabus
 ### 1.	SQL Brief  (30 mins)
 - What is SQL
@@ -100,3 +122,9 @@
 - Self Join
 - Outer Join
 - Cross Join
+
+### 12. Bonus
+- Doubt clearing sessions
+- Career Avice
+- Live Hand-on Project
+- Assignments
