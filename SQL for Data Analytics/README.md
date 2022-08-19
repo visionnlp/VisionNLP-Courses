@@ -1,6 +1,6 @@
 # Course: SQL for Data Analytics - with SQL Server
 
-Are you a data scientist or Data Analyst interested in learning more about how to analyze data and improve your SQL skills? Then this live online course is for you.
+Are you a data scientist or Data Analyst interested in learning more about how to analyze the data and improve your SQL skills? Then this live online course is for you.
 
 **SQL for Data Analysis - with SQL Server** is a online class taught live by experts from leading Companies like Bajaj. 
 
@@ -21,6 +21,8 @@ All participants completing the course receive a *certificate* and access to the
 **Who can attend**: Data scientists, machine learning engineers, data analysts, Data Engineers, BI Developers, Students.
 
 **Benefits**: Doubt clearing sessions, Career Advice, Certification, Live Projects, Assignments
+
+**WhatsApp**: 9923929787 www.visionnlp.com
 
 ## Syllabus
 ### 1.	SQL Brief  (30 mins)
