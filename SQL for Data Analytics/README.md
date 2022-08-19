@@ -20,7 +20,7 @@ All participants completing the course receive a *certificate* and access to the
 
 **Who can attend**: Data scientists, machine learning engineers, data analysts, Data Engineers, BI Developers, Students.
 
-**Benefits**: Doubt clearing sessions, Career Avice, Certifiction, Live Projects, Assignments
+**Benefits**: Doubt clearing sessions, Career Advice, Certification, Live Projects, Assignments
 
 ## Syllabus
 ### 1.	SQL Brief  (30 mins)
