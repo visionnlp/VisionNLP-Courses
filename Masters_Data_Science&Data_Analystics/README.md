@@ -74,3 +74,15 @@ Construction of tree, terminologies, Gini index, information gain, optimizing pe
 -	Distance Metrics
 -	Clustering: K-means Clustering
 -	Principal Component Analysis
+### SQL
+- SQL, DBMS and SQL Server Detailed Understanding
+- SQL Server Services & Tools
+- SQL Queries Clauses
+- Data Manipulation
+- Operators & in-built functions
+- Create, Alter, Drop, rename, Delete, Insert
+- SQL joins 
+- Bonus points & Many more
+### Tableau
+- Introduction to Tableau
+- Data Visualization in Tableau
